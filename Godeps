@@ -1,5 +1,0 @@
-{
-    "ImportPath": "github.com/ReshNesh/timetable-that-doesnt-suck",
-    "GoVersion": "go version go1.2rc4 darwin/amd64",
-    "Deps": []
-}
