@@ -1,1 +1,1 @@
-web: timetable
+web: timetable-that-doesnt-suck
